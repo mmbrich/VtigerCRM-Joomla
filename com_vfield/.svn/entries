@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="200"
+   name=""
+   committed-date="2007-09-11T03:43:45.704134Z"
+   url="svn+ssh://mattb@forge.vtiger.com/svnroot/joomla-modules/vtiger5/trunk/com_vfield"
+   last-author="mattb"
+   kind="dir"
+   uuid="9c9e6dd4-b40c-0410-86a4-91b7dd187b41"
+   repos="svn+ssh://mattb@forge.vtiger.com/svnroot/joomla-modules"
+   revision="202"/>
+<entry
+   committed-rev="200"
+   name="vfield.php"
+   text-time="2007-09-12T01:52:39.000000Z"
+   committed-date="2007-09-11T03:43:45.704134Z"
+   checksum="44d78930c0da81aae7342f80e5ad34ad"
+   last-author="mattb"
+   kind="file"
+   prop-time="2007-09-12T01:52:39.000000Z"/>
+<entry
+   committed-rev="189"
+   name="vfield.xml"
+   text-time="2007-09-12T01:52:39.000000Z"
+   committed-date="2006-08-31T21:05:47.069696Z"
+   checksum="75d3d5570051bd6a291c16a954415902"
+   last-author="mattb"
+   kind="file"
+   prop-time="2007-09-12T01:52:39.000000Z"/>
+</wc-entries>

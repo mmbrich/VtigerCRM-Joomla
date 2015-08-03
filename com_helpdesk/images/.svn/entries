@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="141"
+   name=""
+   committed-date="2006-08-28T02:21:18.278819Z"
+   url="svn+ssh://mattb@forge.vtiger.com/svnroot/joomla-modules/vtiger5/trunk/com_helpdesk/images"
+   last-author="mattb"
+   kind="dir"
+   uuid="9c9e6dd4-b40c-0410-86a4-91b7dd187b41"
+   repos="svn+ssh://mattb@forge.vtiger.com/svnroot/joomla-modules"
+   revision="202"/>
+<entry
+   committed-rev="141"
+   name="faq.gif"
+   text-time="2007-09-12T01:52:42.000000Z"
+   committed-date="2006-08-28T02:21:18.278819Z"
+   checksum="6cdfded681c46e74217a9c318cb0d28c"
+   last-author="mattb"
+   kind="file"
+   prop-time="2007-09-12T01:52:42.000000Z"/>
+</wc-entries>

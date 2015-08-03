@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="193"
+   name=""
+   committed-date="2007-06-04T21:27:24.044156Z"
+   url="svn+ssh://mattb@forge.vtiger.com/svnroot/joomla-modules/vtiger5/trunk/mod_vtigerlogin"
+   last-author="mattb"
+   kind="dir"
+   uuid="9c9e6dd4-b40c-0410-86a4-91b7dd187b41"
+   repos="svn+ssh://mattb@forge.vtiger.com/svnroot/joomla-modules"
+   revision="202"/>
+<entry
+   committed-rev="53"
+   name="mod_vtigerlogin.xml"
+   text-time="2007-09-12T01:52:39.000000Z"
+   committed-date="2006-08-02T19:10:10.593895Z"
+   checksum="8e60823784364827a003988b755c30c0"
+   last-author="mattb"
+   kind="file"
+   prop-time="2007-09-12T01:52:39.000000Z"/>
+<entry
+   committed-rev="193"
+   name="mod_vtigerlogin.php"
+   text-time="2007-09-12T01:52:39.000000Z"
+   committed-date="2007-06-04T21:27:24.044156Z"
+   checksum="6f745b50e836a9fde1198d6de4d2a166"
+   last-author="mattb"
+   kind="file"
+   prop-time="2007-09-12T01:52:39.000000Z"/>
+</wc-entries>

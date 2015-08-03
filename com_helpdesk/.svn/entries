@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="196"
+   name=""
+   committed-date="2007-07-21T15:50:47.848728Z"
+   url="svn+ssh://mattb@forge.vtiger.com/svnroot/joomla-modules/vtiger5/trunk/com_helpdesk"
+   last-author="mattb"
+   kind="dir"
+   uuid="9c9e6dd4-b40c-0410-86a4-91b7dd187b41"
+   repos="svn+ssh://mattb@forge.vtiger.com/svnroot/joomla-modules"
+   revision="202"/>
+<entry
+   committed-rev="95"
+   name="admin.helpdesk.html.php"
+   text-time="2007-09-12T01:52:42.000000Z"
+   committed-date="2006-08-13T08:00:13.780721Z"
+   checksum="97d12fa1bb4de8b408740bc6194caa75"
+   last-author="mattb"
+   kind="file"
+   prop-time="2007-09-12T01:52:42.000000Z"/>
+<entry
+   committed-rev="168"
+   name="helpdesk.detailview.php"
+   text-time="2007-09-12T01:52:42.000000Z"
+   committed-date="2006-08-29T05:47:12.177807Z"
+   checksum="2f9d2fedeebd975edfff6410c4c32d1f"
+   last-author="mattb"
+   kind="file"
+   prop-time="2007-09-12T01:52:42.000000Z"/>
+<entry
+   committed-rev="175"
+   name="helpdesk.newticket.php"
+   text-time="2007-09-12T01:52:42.000000Z"
+   committed-date="2006-08-29T07:12:30.679330Z"
+   checksum="5e22b936fe20529a6dea063c308660b3"
+   last-author="mattb"
+   kind="file"
+   prop-time="2007-09-12T01:52:42.000000Z"/>
+<entry
+   name="images"
+   kind="dir"/>
+<entry
+   committed-rev="196"
+   name="helpdesk.php"
+   text-time="2007-09-12T01:52:42.000000Z"
+   committed-date="2007-07-21T15:50:47.848728Z"
+   checksum="c4573e95fc774da741ced673bdd6dd45"
+   last-author="mattb"
+   kind="file"
+   prop-time="2007-09-12T01:52:42.000000Z"/>
+<entry
+   name="languages"
+   kind="dir"/>
+<entry
+   committed-rev="95"
+   name="toolbar.helpdesk.php"
+   text-time="2007-09-12T01:52:42.000000Z"
+   committed-date="2006-08-13T08:00:13.780721Z"
+   checksum="6357d67d6d477b8b13a1984cd2ae0a26"
+   last-author="mattb"
+   kind="file"
+   prop-time="2007-09-12T01:52:42.000000Z"/>
+<entry
+   committed-rev="167"
+   name="helpdesk.html.php"
+   text-time="2007-09-12T01:52:42.000000Z"
+   committed-date="2006-08-29T05:33:28.137474Z"
+   checksum="2db47de8256aa195f01e9b8fbcfb58e9"
+   last-author="mattb"
+   kind="file"
+   prop-time="2007-09-12T01:52:42.000000Z"/>
+<entry
+   committed-rev="175"
+   name="helpdesk.kbase.php"
+   text-time="2007-09-12T01:52:42.000000Z"
+   committed-date="2006-08-29T07:12:30.679330Z"
+   checksum="18af756f71808258808b1cce01760e64"
+   last-author="mattb"
+   kind="file"
+   prop-time="2007-09-12T01:52:42.000000Z"/>
+<entry
+   committed-rev="42"
+   name="toolbar.helpdesk.html.php"
+   text-time="2007-09-12T01:52:42.000000Z"
+   committed-date="2006-07-10T06:25:23.998794Z"
+   checksum="4d1b0e91c0b6286fff8f6c0b5cc6a1d2"
+   last-author="mattb"
+   kind="file"
+   prop-time="2007-09-12T01:52:42.000000Z"/>
+<entry
+   committed-rev="156"
+   name="admin.helpdesk.php"
+   text-time="2007-09-12T01:52:42.000000Z"
+   committed-date="2006-08-28T05:58:47.752470Z"
+   checksum="4e2d86b328c37a6842625a765ce60d16"
+   last-author="mattb"
+   kind="file"
+   prop-time="2007-09-12T01:52:42.000000Z"/>
+<entry
+   committed-rev="171"
+   name="helpdesk.xml"
+   text-time="2007-09-12T01:52:42.000000Z"
+   committed-date="2006-08-29T06:45:07.738790Z"
+   checksum="2936acd5d7873ef71f97ca302b0bea18"
+   last-author="mattb"
+   kind="file"
+   prop-time="2007-09-12T01:52:42.000000Z"/>
+</wc-entries>

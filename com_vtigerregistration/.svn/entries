@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="201"
+   name=""
+   committed-date="2007-09-11T06:24:29.409142Z"
+   url="svn+ssh://mattb@forge.vtiger.com/svnroot/joomla-modules/vtiger5/trunk/com_vtigerregistration"
+   last-author="mattb"
+   kind="dir"
+   uuid="9c9e6dd4-b40c-0410-86a4-91b7dd187b41"
+   repos="svn+ssh://mattb@forge.vtiger.com/svnroot/joomla-modules"
+   revision="202"/>
+<entry
+   name="vtiger"
+   kind="dir"/>
+<entry
+   committed-rev="148"
+   name="vtigerregistration.php"
+   text-time="2007-09-12T01:52:42.000000Z"
+   committed-date="2006-08-28T03:25:33.829141Z"
+   checksum="18e57bb22fb92c5a468287ed5dba00ec"
+   last-author="mattb"
+   kind="file"
+   prop-time="2007-09-12T01:52:41.000000Z"/>
+<entry
+   committed-rev="111"
+   name="toolbar.vtigerregistration.php"
+   text-time="2007-09-12T01:52:42.000000Z"
+   committed-date="2006-08-19T23:21:34.430543Z"
+   checksum="9e423b7759ceaab904932bc0ebbeea66"
+   last-author="mattb"
+   kind="file"
+   prop-time="2007-09-12T01:52:41.000000Z"/>
+<entry
+   committed-rev="149"
+   name="vtigerregistration.html.php"
+   text-time="2007-09-12T01:52:42.000000Z"
+   committed-date="2006-08-28T03:29:13.805401Z"
+   checksum="acdf49a3916cf79213318ad99da81e79"
+   last-author="mattb"
+   kind="file"
+   prop-time="2007-09-12T01:52:41.000000Z"/>
+<entry
+   committed-rev="49"
+   name="toolbar.vtigerregistration.html.php"
+   text-time="2007-09-12T01:52:42.000000Z"
+   committed-date="2006-08-02T02:57:44.627352Z"
+   checksum="79f1d416230b4fb5563552fcc7e078ac"
+   last-author="mattb"
+   kind="file"
+   prop-time="2007-09-12T01:52:41.000000Z"/>
+<entry
+   name="languages"
+   kind="dir"/>
+<entry
+   committed-rev="198"
+   name="admin.vtigerregistration.php"
+   text-time="2007-09-12T01:52:42.000000Z"
+   committed-date="2007-09-10T23:39:05.363997Z"
+   checksum="143ce7a426cc948cd2062a4adaa33563"
+   last-author="mattb"
+   kind="file"
+   prop-time="2007-09-12T01:52:41.000000Z"/>
+<entry
+   committed-rev="178"
+   name="vtigerregistration.xml"
+   text-time="2007-09-12T01:52:42.000000Z"
+   committed-date="2006-08-29T21:52:41.957611Z"
+   checksum="687d1c268d80df29d99b7a57c183f7fa"
+   last-author="mattb"
+   kind="file"
+   prop-time="2007-09-12T01:52:41.000000Z"/>
+<entry
+   committed-rev="111"
+   name="admin.vtigerregistration.html.php"
+   text-time="2007-09-12T01:52:42.000000Z"
+   committed-date="2006-08-19T23:21:34.430543Z"
+   checksum="3138b6834b44f8500fbabe3bd94ce8b8"
+   last-author="mattb"
+   kind="file"
+   prop-time="2007-09-12T01:52:41.000000Z"/>
+</wc-entries>

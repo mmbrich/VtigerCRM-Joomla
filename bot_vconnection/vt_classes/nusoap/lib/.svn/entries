@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="202"
+   name=""
+   committed-date="2007-09-12T02:11:26.918165Z"
+   url="svn+ssh://mattb@forge.vtiger.com/svnroot/joomla-modules/vtiger5/trunk/bot_vconnection/vt_classes/nusoap/lib"
+   last-author="mattb"
+   kind="dir"
+   uuid="9c9e6dd4-b40c-0410-86a4-91b7dd187b41"
+   repos="svn+ssh://mattb@forge.vtiger.com/svnroot/joomla-modules"
+   revision="202"/>
+<entry
+   committed-rev="202"
+   name="nusoap.php"
+   text-time="2007-09-15T17:18:04.000000Z"
+   committed-date="2007-09-12T02:11:26.918165Z"
+   checksum="20918b20667ef82668cd91c0bc3f2668"
+   last-author="mattb"
+   kind="file"
+   prop-time="2007-09-15T17:18:04.000000Z"/>
+</wc-entries>

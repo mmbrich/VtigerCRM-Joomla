@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="201"
+   name=""
+   committed-date="2007-09-11T06:24:29.409142Z"
+   url="svn+ssh://mattb@forge.vtiger.com/svnroot/joomla-modules/vtiger5/trunk/com_vtigerregistration/vtiger"
+   last-author="mattb"
+   kind="dir"
+   uuid="9c9e6dd4-b40c-0410-86a4-91b7dd187b41"
+   repos="svn+ssh://mattb@forge.vtiger.com/svnroot/joomla-modules"
+   revision="202"/>
+<entry
+   committed-rev="49"
+   name="prototype.js"
+   text-time="2007-09-12T01:52:41.000000Z"
+   committed-date="2006-08-02T02:57:44.627352Z"
+   checksum="725cd09eb6cca738be202daa99d2d328"
+   last-author="mattb"
+   kind="file"
+   prop-time="2007-09-12T01:52:41.000000Z"/>
+<entry
+   committed-rev="179"
+   name="VTigerContact.class.php"
+   text-time="2007-09-12T01:52:41.000000Z"
+   committed-date="2006-08-29T22:04:47.816217Z"
+   checksum="7f6238c63ce646feba6b6ebd674836b1"
+   last-author="mattb"
+   kind="file"
+   prop-time="2007-09-12T01:52:41.000000Z"/>
+<entry
+   committed-rev="159"
+   name="VTigerInvoice.class.php"
+   text-time="2007-09-12T01:52:41.000000Z"
+   committed-date="2006-08-28T09:32:40.309172Z"
+   checksum="c7d6c119625caffabe9e5fc96fe47a84"
+   last-author="mattb"
+   kind="file"
+   prop-time="2007-09-12T01:52:41.000000Z"/>
+<entry
+   committed-rev="164"
+   name="VTigerHDeskUser.class.php"
+   text-time="2007-09-12T01:52:41.000000Z"
+   committed-date="2006-08-29T04:24:00.106478Z"
+   checksum="8da701d715b9151cc03583958fa4f518"
+   last-author="mattb"
+   kind="file"
+   prop-time="2007-09-12T01:52:41.000000Z"/>
+<entry
+   committed-rev="159"
+   name="VTigerPotential.class.php"
+   text-time="2007-09-12T01:52:41.000000Z"
+   committed-date="2006-08-28T09:32:40.309172Z"
+   checksum="56ae760bf013c5fe43a2dc14d4b8c2b2"
+   last-author="mattb"
+   kind="file"
+   prop-time="2007-09-12T01:52:41.000000Z"/>
+<entry
+   committed-rev="179"
+   name="VTigerProduct.class.php"
+   text-time="2007-09-12T01:52:41.000000Z"
+   committed-date="2006-08-29T22:04:47.816217Z"
+   checksum="256554786143a8e0c536f0c6fc1d9347"
+   last-author="mattb"
+   kind="file"
+   prop-time="2007-09-12T01:52:41.000000Z"/>
+<entry
+   committed-rev="183"
+   name="VTigerField.class.php"
+   text-time="2007-09-12T01:52:41.000000Z"
+   committed-date="2006-08-30T02:30:39.990735Z"
+   checksum="9550059e879b8e0b9bbe3cb90c4b0a27"
+   last-author="mattb"
+   kind="file"
+   prop-time="2007-09-12T01:52:41.000000Z"/>
+<entry
+   committed-rev="201"
+   name="VTigerForm.class.php"
+   text-time="2007-09-12T01:52:41.000000Z"
+   committed-date="2007-09-11T06:24:29.409142Z"
+   checksum="ed19fd0cfc1fc8cd07b9c4207cf17498"
+   last-author="mattb"
+   kind="file"
+   prop-time="2007-09-12T01:52:41.000000Z"/>
+<entry
+   committed-rev="201"
+   name="VTigerSalesOrder.class.php"
+   text-time="2007-09-12T01:52:41.000000Z"
+   committed-date="2007-09-11T06:24:29.409142Z"
+   checksum="f7af907e93972b1e95e5d5da95418258"
+   last-author="mattb"
+   kind="file"
+   prop-time="2007-09-12T01:52:41.000000Z"/>
+</wc-entries>

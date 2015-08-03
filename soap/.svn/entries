@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="201"
+   name=""
+   committed-date="2007-09-11T06:24:29.409142Z"
+   url="svn+ssh://mattb@forge.vtiger.com/svnroot/joomla-modules/vtiger5/trunk/soap"
+   last-author="mattb"
+   kind="dir"
+   uuid="9c9e6dd4-b40c-0410-86a4-91b7dd187b41"
+   repos="svn+ssh://mattb@forge.vtiger.com/svnroot/joomla-modules"
+   revision="202"/>
+<entry
+   committed-rev="197"
+   name="contact.php"
+   text-time="2007-09-12T01:52:39.000000Z"
+   committed-date="2007-07-21T15:53:18.470391Z"
+   checksum="4f106448a76f811134227065a708efdd"
+   last-author="mattb"
+   kind="file"
+   prop-time="2007-09-12T01:52:38.000000Z"/>
+<entry
+   committed-rev="176"
+   name="jportal.php"
+   text-time="2007-09-12T01:52:39.000000Z"
+   committed-date="2006-08-29T21:49:04.548662Z"
+   checksum="f7b26b51e3f66e0ad6278da95a020177"
+   last-author="mattb"
+   kind="file"
+   prop-time="2007-09-12T01:52:38.000000Z"/>
+<entry
+   committed-rev="160"
+   name="vtigerservice.php.patch"
+   text-time="2007-09-12T01:52:39.000000Z"
+   committed-date="2006-08-28T09:34:44.446591Z"
+   checksum="77b4a31ce27b16a4c9003ceeb288a0ba"
+   last-author="mattb"
+   kind="file"
+   prop-time="2007-09-12T01:52:38.000000Z"/>
+<entry
+   committed-rev="182"
+   name="joomla.php"
+   text-time="2007-09-12T01:52:39.000000Z"
+   committed-date="2006-08-30T02:26:21.072462Z"
+   checksum="e5e376eeb884c37cad0e91a69d97d708"
+   last-author="mattb"
+   kind="file"
+   prop-time="2007-09-12T01:52:38.000000Z"/>
+<entry
+   committed-rev="199"
+   name="jinc.php"
+   text-time="2007-09-12T01:52:39.000000Z"
+   committed-date="2007-09-11T00:50:44.856053Z"
+   checksum="3333e6cfb280ebbf144fd59b6e277902"
+   last-author="mattb"
+   kind="file"
+   prop-time="2007-09-12T01:52:38.000000Z"/>
+<entry
+   committed-rev="182"
+   name="products.php"
+   text-time="2007-09-12T01:52:39.000000Z"
+   committed-date="2006-08-30T02:26:21.072462Z"
+   checksum="be949bd8725aab3a8422c0cb35053eb3"
+   last-author="mattb"
+   kind="file"
+   prop-time="2007-09-12T01:52:38.000000Z"/>
+<entry
+   committed-rev="201"
+   name="salesorder.php"
+   text-time="2007-09-12T01:52:39.000000Z"
+   committed-date="2007-09-11T06:24:29.409142Z"
+   checksum="369b28286c5ccb7bedcae197c408a7a8"
+   last-author="mattb"
+   kind="file"
+   prop-time="2007-09-12T01:52:39.000000Z"/>
+<entry
+   committed-rev="188"
+   name="fields.php"
+   text-time="2007-09-12T01:52:39.000000Z"
+   committed-date="2006-08-31T20:30:38.189086Z"
+   checksum="cb2b5edb3ffc118074413709f7ad7c0d"
+   last-author="mattb"
+   kind="file"
+   prop-time="2007-09-12T01:52:39.000000Z"/>
+<entry
+   committed-rev="176"
+   name="jdef.php"
+   text-time="2007-09-12T01:52:39.000000Z"
+   committed-date="2006-08-29T21:49:04.548662Z"
+   checksum="8a07a9fb135404941bb7af0ba75952c9"
+   last-author="mattb"
+   kind="file"
+   prop-time="2007-09-12T01:52:39.000000Z"/>
+</wc-entries>

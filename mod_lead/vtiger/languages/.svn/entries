@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="139"
+   name=""
+   committed-date="2006-08-27T23:11:13.533142Z"
+   url="svn+ssh://mattb@forge.vtiger.com/svnroot/joomla-modules/vtiger5/trunk/mod_lead/vtiger/languages"
+   last-author="mattb"
+   kind="dir"
+   uuid="9c9e6dd4-b40c-0410-86a4-91b7dd187b41"
+   repos="svn+ssh://mattb@forge.vtiger.com/svnroot/joomla-modules"
+   revision="202"/>
+<entry
+   committed-rev="29"
+   name="lead_french.php"
+   text-time="2007-09-12T01:52:39.000000Z"
+   committed-date="2006-06-19T22:28:33.441813Z"
+   checksum="2a04e74a38c75891aa91e60348e6e891"
+   last-author="mattb"
+   kind="file"
+   prop-time="2007-09-12T01:52:39.000000Z"/>
+<entry
+   committed-rev="29"
+   name="lead_english.php"
+   text-time="2007-09-12T01:52:39.000000Z"
+   committed-date="2006-06-19T22:28:33.441813Z"
+   checksum="16e08e083ba2f251155cef05cbb5ad4e"
+   last-author="mattb"
+   kind="file"
+   prop-time="2007-09-12T01:52:39.000000Z"/>
+<entry
+   committed-rev="139"
+   name="lead_german.php"
+   text-time="2007-09-12T01:52:39.000000Z"
+   committed-date="2006-08-27T23:11:13.533142Z"
+   checksum="cb203d7b349cd929b0c77ab70ef2077e"
+   last-author="mattb"
+   kind="file"
+   prop-time="2007-09-12T01:52:39.000000Z"/>
+<entry
+   committed-rev="139"
+   name="lead_germanf.php"
+   text-time="2007-09-12T01:52:39.000000Z"
+   committed-date="2006-08-27T23:11:13.533142Z"
+   checksum="cb203d7b349cd929b0c77ab70ef2077e"
+   last-author="mattb"
+   kind="file"
+   prop-time="2007-09-12T01:52:39.000000Z"/>
+<entry
+   committed-rev="139"
+   name="lead_germani.php"
+   text-time="2007-09-12T01:52:39.000000Z"
+   committed-date="2006-08-27T23:11:13.533142Z"
+   checksum="350921c9e0bbc28101375583e6a97271"
+   last-author="mattb"
+   kind="file"
+   prop-time="2007-09-12T01:52:39.000000Z"/>
+</wc-entries>

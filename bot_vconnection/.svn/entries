@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="202"
+   name=""
+   committed-date="2007-09-12T02:11:26.918165Z"
+   url="svn+ssh://mattb@forge.vtiger.com/svnroot/joomla-modules/vtiger5/trunk/bot_vconnection"
+   last-author="mattb"
+   kind="dir"
+   uuid="9c9e6dd4-b40c-0410-86a4-91b7dd187b41"
+   repos="svn+ssh://mattb@forge.vtiger.com/svnroot/joomla-modules"
+   revision="202"/>
+<entry
+   committed-rev="161"
+   name="bot_vconnection.php"
+   text-time="2007-09-15T17:18:04.000000Z"
+   committed-date="2006-08-28T23:06:49.751226Z"
+   checksum="4460c5720de7d08fe0d970dc52a4be13"
+   last-author="mattb"
+   kind="file"
+   prop-time="2007-09-15T17:18:03.000000Z"/>
+<entry
+   name="vt_classes"
+   kind="dir"/>
+<entry
+   committed-rev="180"
+   name="bot_vconnection.xml"
+   text-time="2007-09-15T17:18:04.000000Z"
+   committed-date="2006-08-29T23:44:29.063237Z"
+   checksum="1af9f451d2499f83f2ed2a7b6e724c62"
+   last-author="mattb"
+   kind="file"
+   prop-time="2007-09-15T17:18:04.000000Z"/>
+</wc-entries>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="202"
+   name=""
+   committed-date="2007-09-12T02:11:26.918165Z"
+   url="svn+ssh://mattb@forge.vtiger.com/svnroot/joomla-modules/vtiger5/trunk/bot_vconnection/vt_classes"
+   last-author="mattb"
+   kind="dir"
+   uuid="9c9e6dd4-b40c-0410-86a4-91b7dd187b41"
+   repos="svn+ssh://mattb@forge.vtiger.com/svnroot/joomla-modules"
+   revision="202"/>
+<entry
+   name="nusoap"
+   kind="dir"/>
+<entry
+   committed-rev="185"
+   name="VTigerConnection.class.php"
+   text-time="2007-09-15T17:18:04.000000Z"
+   committed-date="2006-08-30T07:01:54.006550Z"
+   checksum="5122a4d322912f8cec10c03ba42fa438"
+   last-author="mattb"
+   kind="file"
+   prop-time="2007-09-15T17:18:04.000000Z"/>
+</wc-entries>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="154"
+   name=""
+   committed-date="2006-08-28T04:35:47.160536Z"
+   url="svn+ssh://mattb@forge.vtiger.com/svnroot/joomla-modules/vtiger5/trunk/com_vtigerregistration/languages"
+   last-author="mattb"
+   kind="dir"
+   uuid="9c9e6dd4-b40c-0410-86a4-91b7dd187b41"
+   repos="svn+ssh://mattb@forge.vtiger.com/svnroot/joomla-modules"
+   revision="202"/>
+<entry
+   committed-rev="154"
+   name="vtigerregistration_english.php"
+   text-time="2007-09-12T01:52:41.000000Z"
+   committed-date="2006-08-28T04:35:47.160536Z"
+   checksum="c006baab1dcdbee53bb59a3519cca9a7"
+   last-author="mattb"
+   kind="file"
+   prop-time="2007-09-12T01:52:41.000000Z"/>
+</wc-entries>

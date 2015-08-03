@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="187"
+   name=""
+   committed-date="2006-08-30T07:17:40.198541Z"
+   url="svn+ssh://mattb@forge.vtiger.com/svnroot/joomla-modules/vtiger5/trunk/mod_lead"
+   last-author="mattb"
+   kind="dir"
+   uuid="9c9e6dd4-b40c-0410-86a4-91b7dd187b41"
+   repos="svn+ssh://mattb@forge.vtiger.com/svnroot/joomla-modules"
+   revision="202"/>
+<entry
+   name="vtiger"
+   kind="dir"/>
+<entry
+   committed-rev="141"
+   name="mod_lead.xml"
+   text-time="2007-09-12T01:52:39.000000Z"
+   committed-date="2006-08-28T02:21:18.278819Z"
+   checksum="ff4dcd5febf2439532bb4b1978743097"
+   last-author="mattb"
+   kind="file"
+   prop-time="2007-09-12T01:52:39.000000Z"/>
+<entry
+   committed-rev="187"
+   name="mod_lead.php"
+   text-time="2007-09-12T01:52:39.000000Z"
+   committed-date="2006-08-30T07:17:40.198541Z"
+   checksum="d981746bc86d2b4598a897b5ec2a8813"
+   last-author="mattb"
+   kind="file"
+   prop-time="2007-09-12T01:52:39.000000Z"/>
+</wc-entries>
